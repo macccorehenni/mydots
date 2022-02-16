@@ -6,8 +6,15 @@
         {
             "label": "Open VIT",
             "type": "shell",
-            "command": "cd; vit",
-            "problemMatcher": []
+            "command": "~/./vitsrc",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": true,
+                "panel": "dedicated",
+                "showReuseMessage": false,
+                "clear": false
+            }
         }
     ]
 }
