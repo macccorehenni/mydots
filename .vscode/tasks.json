@@ -6,7 +6,8 @@
         {
             "label": "Open VIT",
             "type": "shell",
-            "command": "vit"
+            "command": "cd; vit",
+            "problemMatcher": []
         }
     ]
 }
