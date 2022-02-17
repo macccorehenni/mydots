@@ -1,8 +1,5 @@
-from urllib.request import urlopen
-
-
-term = input("what is the term you want to search for?")
-import string
-term.
-url = "https://google.com/search/?q=" + term
-urlopen(url)
+import webbrowser
+google = "https://www.google.com/search?q="
+url = google + input("what to search ")
+webbrowser.open(url,2)
+# finally!
