@@ -1,5 +1,9 @@
 
-#
+#google.py by Mac Henni
+#use it, sell it, wtf you want it!
+#(In other words, this is CC-BY 0-licenced.)
+# Opens Google in your default browser. Seems like it's just Google for me.
+#Used a async, which is actually cool!
 import webbrowser
 import asyncio
 amba = "y"
@@ -13,4 +17,7 @@ while amba == "y":
   #for debug
   #  if amba != "y":
       #  print(amba)
+    #if you so insist:
+    #(c)2022 Mac Henni. No rights reserved at all. :)
+    #Love it all!
 
