@@ -10,5 +10,8 @@
         "./text and code",
         "-p",
         "*test.py"
+    ],
+    "cSpell.words": [
+        "amba"
     ]
 }
