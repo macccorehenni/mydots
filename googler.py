@@ -5,6 +5,7 @@ from turtle import heading
 import webbrowser
 
 from construct import Padding
+from sqlalchemy import true
 def google(what):
     
     #Next three lines actually open Google
