@@ -13,5 +13,6 @@
     ],
     "cSpell.words": [
         "amba"
-    ]
+    ],
+    "python.formatting.provider": "black"
 }
